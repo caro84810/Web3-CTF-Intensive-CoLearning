@@ -56,15 +56,19 @@ timezone: Pacific/Auckland
     ![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/7774fde7-005d-44d4-addc-66fb8267870a/06c9c9fb-4c26-4540-bc10-a895b1605dc1/image.png)
 
 10. 獲得密碼後輸入await contract.authenticate(’ethernaut0’)
-    ![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/7774fde7-005d-44d4-addc-66fb8267870a/a02937aa-705f-4849-9dac-667f11b890c2/image.png)
+     ![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/7774fde7-005d-44d4-addc-66fb8267870a/a02937aa-705f-4849-9dac-667f11b890c2/image.png)
+
 ----------------
+
 其實從昨天報名完就開始研究整個運作方式，去多挖了一些SepETH
 今日目標本來希望能夠順便把POC也研究完，但沒有成功
 明日目標：
 1.Foundry寫POC學習
 2.Solidity深入學習
 3.用POC解2題以上
+
 ----------------
+
 Solidity：
   一種高級編程語言，用於編寫和部署在以太坊（Ethereum）區塊鏈上的智能合約。它是以太坊開發的主要語言，設計上類似於 JavaScript 和 C++，使開發者能夠創建去中心化應用（DApps）和各種自動化合約。
   (明日將基本語法補充進來)
